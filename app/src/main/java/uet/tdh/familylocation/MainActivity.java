@@ -70,7 +70,7 @@ public class MainActivity extends AppCompatActivity {
                                 // the auth state listener will be notified and logic to handle the
                                 // signed in user can be handled in the listener.
                                 if (!task.isSuccessful()) {
-                                    Toast.makeText(MainActivity.this, "Error", Toast.LENGTH_SHORT).show();
+                                    Toast.makeText(MainActivity.this, "Error1", Toast.LENGTH_SHORT).show();
                                 }
 
                                 // ...
