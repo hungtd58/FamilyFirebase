@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "54404298421",
+    "firebase_url": "https://familylocationandroid-c5ac0.firebaseio.com",
+    "project_id": "familylocationandroid-c5ac0",
+    "storage_bucket": "familylocationandroid-c5ac0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54404298421:android:26ee2258f2b78146",
+        "android_client_info": {
+          "package_name": "uet.tdh.familylocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54404298421-g7o9vuijlrvotnttqvoo15mmptimdojk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uet.tdh.familylocation",
+            "certificate_hash": "E69CF1C3E304B020F841CADB8A854FD6CD4327EC"
+          }
+        },
+        {
+          "client_id": "54404298421-jg8amsnpv41etn3dn0s8ftn2ova17sae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXfi0U31BUulFtkDd1tY6fVvdHQk5CxcI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54404298421-jg8amsnpv41etn3dn0s8ftn2ova17sae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
