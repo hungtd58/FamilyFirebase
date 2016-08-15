@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/FamilyLocation.iml" filepath="$PROJECT_DIR$/FamilyLocation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FamilyFirebase.iml" filepath="$PROJECT_DIR$/FamilyFirebase.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
